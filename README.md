@@ -3,7 +3,6 @@ Learning GitHub
 
 Atores/Atrizes
   - Vin Diesel
-  - Jackie Chan
+  - Chan Kong-sang (Jackie Chan)
   - Jennifer Aniston
-  
-  
+  - Gal Gadot
